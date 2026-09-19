@@ -1,0 +1,4 @@
+Records processed: 7,728,394
+Peak accident-record hour: 07:00 (525,763 records).
+Most common recorded weather condition: Fair (2,560,802 records).
+The hotspot plot shows reported-record density, not risk adjusted for traffic volume or population.
